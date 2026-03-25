@@ -73,9 +73,6 @@
 ---
 
 ## ⚡ Fun Fact
-I turn complex data into simple business decisions 🚀
+I turn messy data into meaningful business decisions 🚀
 
 ---
-
-## ⚡ Fun Fact
-I turn messy data into meaningful business decisions 🚀
